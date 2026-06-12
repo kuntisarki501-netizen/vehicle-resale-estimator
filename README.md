@@ -58,8 +58,8 @@ A Streamlit web app that:
 
 ## Weekly Plan
 
-| Week | Topic | Key Deliverable |
-|------|-------|----------------|
+| Week | Topic | 
+|------|-------|
 | **Week 1** | Download CSV, create GitHub repo, run my script |
 | **Week 2** | Run my EDA notebook, check the output, submit |
 | **Week 3** | Run my feature engineering code, submit |
