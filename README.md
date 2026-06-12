@@ -58,21 +58,26 @@ A Streamlit web app that:
 
 ## Weekly Plan
 
-| Week | Topic | 
-|------|-------|
-| **Week 1** | Download CSV, create GitHub repo, run my script |
-| **Week 2** | Run my EDA notebook, check the output, submit |
-| **Week 3** | Run my feature engineering code, submit |
-| **Week 4** | Run my XGBoost code, save the .pkl file |
-| **Week 5** | Add your API key, run my LLM code |
-| **Week 6** | Follow my RAG setup steps |
-| **Week 7** | Copy my Streamlit code, deploy to cloud |
-| **Week 8** | Write report using my template, record video |
+| Week | Topic | Key Deliverable |
+|------|-------|----------------|
+| **Week 1** | Dataset sourcing, data inspection, GitHub repo init | Proposal + Repo URL |
+| **Week 2** | Data cleaning, EDA, correlation heatmap | EDA Notebook + PDF |
+| **Week 3** | Feature engineering (car_age, brand, condition), baseline model | Feature Notebook |
+| **Week 4** | XGBoost tuning with Optuna, SHAP waterfall, save model.pkl | Optimized Model |
+| **Week 5** | LLM integration (Investment Summary generation) | LLM Notebook |
+| **Week 6** | RAG chatbot over Nepal vehicle market knowledge base | Chatbot Demo |
+| **Week 7** | Streamlit app + Gauge Chart + deploy to Streamlit Cloud | Live URL |
+| **Week 8** | Business report, portfolio case study, final video | Final Submission |
 
 ---
 
+## Tech Stack
+
+Python, Pandas, Scikit-Learn, XGBoost, Optuna, SHAP,
+LangChain, OpenAI API / Gemini, FAISS, Streamlit, Git
+
 ## Submission Links 
 **Dataset** - https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
-
+**GitHub Repo** - https://github.com/kuntisarki501-netizen/vehicle-resale-estimator.git
 ---
 
