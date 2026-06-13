@@ -45,6 +45,25 @@ A Streamlit web app that:
 
 ---
 
+## Data Dictionary
+
+| Column | Description |
+|--------|-------------|
+| name | Full car name — brand extracted from this |
+| year | Year of manufacture |
+| selling_price | Resale price in INR — TARGET VARIABLE |
+| km_driven | Total kilometers driven by previous owner |
+| fuel | Petrol / Diesel / CNG / LPG |
+| seller_type | Individual / Dealer |
+| transmission | Manual / Automatic |
+| owner | First / Second / Third Owner |
+| mileage | Fuel efficiency in kmpl |
+| engine | Engine size in CC |
+| max_power | Engine power in bhp |
+| torque | Engine torque — will be dropped |
+| seats | Number of seats |
+
+
 ## Success Metrics
 
 | Metric | Target |
